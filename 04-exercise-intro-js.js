@@ -91,7 +91,7 @@ console.log(name);
 // 7. For the previous question, what is 'c' equal to?
 /* 
     Place your answer here
-    The variable 'c' hasn't been created yet. So it has not value.
+    The variable 'c' hasn't been created yet. So it has no value.
 */
 
 // 8. Make a Calculator! using prompt(), and variables, make a program that does the following:
